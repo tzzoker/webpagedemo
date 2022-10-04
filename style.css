@@ -1,9 +1,12 @@
 body{
-    background-color: black;
+    background-color: darkcyan;
 }
 h1{
-    color: rgb(255, 255, 255);
+    color: rgb(39, 2, 2);
 }
 h2{
     color: aqua;
+}
+h3{
+    color: blue;
 }
